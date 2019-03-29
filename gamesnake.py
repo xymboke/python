@@ -104,6 +104,3 @@ def main():
 
 if __name__ == "__main__":
     main（）
-jhgjgkjkjljlkjlk
-阿双方均看是的发生水电费
-ksfjklsdjfkas
